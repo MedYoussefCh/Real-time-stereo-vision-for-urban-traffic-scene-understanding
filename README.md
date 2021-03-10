@@ -25,7 +25,14 @@
 #### press "x" at any point to exit and shut down all windows
 
 ## References : 
-https://github.com/tobybreckon/stereo-disparity
+*https://github.com/tobybreckon/stereo-disparity
+*https://pjreddie.com/media/files/papers/YOLOv3.pdf
+*https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/
+*https://github.com/spmallick/learnopencv/blob/master/ObjectDetection-YOLO/object_detection_yolo.py
+*https://github.com/spmallick/learnopencv/blob/master/ObjectDetection-YOLO/LICENSE
+*https://pjreddie.com/media/files/yolov3.weights
+*https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg?raw=true
+*https://github.com/pjreddie/darknet/blob/master/data/coco.names?raw=true
 
 [Artificial Intelligence - Computer stereo vision - Image processing - Deep Learning - YOLO v3 - Python (OpenCV, Tensorflow, Keras, etc.)]
 
