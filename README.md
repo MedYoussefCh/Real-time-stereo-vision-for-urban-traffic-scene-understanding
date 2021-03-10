@@ -1,6 +1,6 @@
 # Real-time-stereo-vision-for-urban-traffic-scene-understanding
 
-[As part of my formation in Ecole Centrale Casablanca, we were led to work in groups of two on this project, me and Amine Nait Charif in collaboration with the MAScIR foundation, supervised by Mr Omar Bourja (foundation MAScIR), Mr Hamd Ait Abdelali (foundation MAScIR) and Mr Khalid Dahi (Ecole Centrale Casablanca).]
+[As part of my formation in Ecole Centrale Casablanca, we were led to work in groups of two on this project, me and Amine Nait Charif in collaboration with the MAScIR foundation, supervised by Mr Omar Bourja (Embedded Systems Project Manager - MAScIR), Mr Hamd Ait Abdelali (scientific researcher - MAScIR), Mr Hatim Derraz (scientific researcher - MAScIR) and Mr Khalid Dahi (scientific researcher - Ecole Centrale Casablanca).]
 
 ## i. Stereoscopic survey : application to traffic 
 
