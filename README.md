@@ -24,5 +24,8 @@
 #### execute main_Disparity.py 
 #### press "x" at any point to exit and shut down all windows
 
+## References : 
+https://github.com/tobybreckon/stereo-disparity
+
 [Artificial Intelligence - Computer stereo vision - Image processing - Deep Learning - YOLO v3 - Python (OpenCV, Tensorflow, Keras, etc.)]
 
