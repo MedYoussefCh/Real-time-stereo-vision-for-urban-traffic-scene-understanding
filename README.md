@@ -20,8 +20,8 @@
 - denseDisparity.py 
 - run.py 
 - STEREOVISION DATA (folder containing left-images 1 and right-images 2) [https://centralecasablanca-my.sharepoint.com/:f:/g/personal/mohamed_chouhaidi_centrale-casablanca_ma/Eoahs_F2Rv1JtSF4VwiiRMYB6bJpQrkJcYBC-whYmMin0w?e=wVjgEW]
-#### in run.py edit the "PATH_TO_DATASET" variable value to the path containing the stereo images
-#### execute run.py 
+#### in main_Disparity.py  edit the "PATH_TO_DATASET" variable value to the path containing the stereo images
+#### execute main_Disparity.py 
 #### press "x" at any point to exit and shut down all windows
 
 [Artificial Intelligence - Computer stereo vision - Image processing - Deep Learning - YOLO v3 - Python (OpenCV, Tensorflow, Keras, etc.)]
