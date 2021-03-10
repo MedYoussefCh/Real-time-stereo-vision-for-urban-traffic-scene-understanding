@@ -13,13 +13,13 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Make sure python 3 is installed with opencv-contrib and numpy pip installed
 #### Make sure the folder contains all of these files/folders:
-- coco.names 
-- yolov3.cfg 
-- yolov3.weights
-- yoloModule.py 
+- coco.names [https://centralecasablanca-my.sharepoint.com/:t:/g/personal/mohamed_chouhaidi_centrale-casablanca_ma/EfXLHOiDiIlDlia7TP4pLfUBBevbLmh5T_qv4R-ZpWOFAQ?e=sKR1C6]
+- yolov3.cfg [https://centralecasablanca-my.sharepoint.com/:u:/g/personal/mohamed_chouhaidi_centrale-casablanca_ma/EY7-LZdqhdFPnJ6951aQJ_sBKmuE-_jQQX0Jo2M1PSHesg?e=zHTZz3]
+- yolov3.weights [https://centralecasablanca-my.sharepoint.com/:u:/g/personal/mohamed_chouhaidi_centrale-casablanca_ma/EQPzTbjZ90hJlfygeHMQ6psBwwBCtWGCSmxlobV34mdjiA?e=QZxfDt]
+- yoloModule.py [https://centralecasablanca-my.sharepoint.com/:u:/g/personal/mohamed_chouhaidi_centrale-casablanca_ma/ETAngl8p2PpJq56miuu-Q1QBM0R4t8Toa86hlL_btBs2XA?e=JXe6Lp]
 - denseDisparity.py 
 - run.py 
-- STEREOVISION DATA (folder containing left-images and right-images) 
+- STEREOVISION DATA (folder containing left-images 1 and right-images 2) [https://centralecasablanca-my.sharepoint.com/:f:/g/personal/mohamed_chouhaidi_centrale-casablanca_ma/Eoahs_F2Rv1JtSF4VwiiRMYB6bJpQrkJcYBC-whYmMin0w?e=wVjgEW]
 #### in run.py edit the "PATH_TO_DATASET" variable value to the path containing the stereo images
 #### execute run.py 
 #### press "x" at any point to exit and shut down all windows
